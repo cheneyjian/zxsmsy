@@ -4,3 +4,7 @@
 ## 目录
 - [简介](./book/README.md)
 - [录音转文字](./book/录音转文字.md)
+
+## 《七年之约》书单
+[书籍获取教程](../guide/booklist/BookAcquisitionTutorial.md)
+
