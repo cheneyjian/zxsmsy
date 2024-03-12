@@ -14,6 +14,9 @@
 
 - [简介](./guide/README.md)
 - [录音转文字](./guide/录音转文字.md)
+- [免费获取比特币](./guide/免费获取比特币.md)
+- [迷信注册](./guide/mixin注册.md)
+- 
 
 ## 《七年之约》书单
 [书籍获取教程](./guide/BookAcquisitionTutorial.md)
