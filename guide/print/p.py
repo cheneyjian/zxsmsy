@@ -14,4 +14,4 @@ symbol_texts = generate_symbol_text()
 text_list = [str(text) for text in symbol_texts]
 
 # 打印转换后的文本列表的前10个
-print(text_list[:10])
+print(text_list[:120])

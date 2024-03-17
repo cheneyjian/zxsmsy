@@ -18,8 +18,8 @@ folder_name = "qrcode"
 if not os.path.exists(folder_name):
     os.makedirs(folder_name)
 
-# 遍历前120个文本并生成二维码
-for text in symbol_texts[:120]:
+# 遍历第121到第126个文本并生成二维码
+for text in symbol_texts[120:126]:
     # 创建二维码对象
     qr = qrcode.QRCode(
         version=1,
